@@ -1,0 +1,24 @@
+{
+  "name": "alekseon-deployer",
+  "version": "1.0.0",
+  "description": "Utility to deploy magento projects on servers.",
+  "dependencies": {
+    "bluebird": "2.9.22",
+    "chalk": "^1.0.0",
+    "lodash": "^3.1.0",
+    "moment": "^2.9.0",
+    "path2": "^0.1.0",
+    "pretty-hrtime": "^1.0.0",
+    "prompt": "^0.2.14",
+    "yargs": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": ""
+}
