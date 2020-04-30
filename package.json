@@ -5,7 +5,7 @@
   "dependencies": {
     "bluebird": "2.9.22",
     "chalk": "^1.0.0",
-    "lodash": "^3.1.0",
+    "lodash": "^4.17.15",
     "moment": "^2.9.0",
     "path2": "^0.1.0",
     "pretty-hrtime": "^1.0.0",
